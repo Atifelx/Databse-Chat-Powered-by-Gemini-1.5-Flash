@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
 <Chat/> 
+<h2>Live database quaries using chatbot  </h2>
 <Student/>
     </div>
   )
